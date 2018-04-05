@@ -1,5 +1,5 @@
 # districts_in_india
-Finding the exact no. of districts in India does not seem to be trivial task, because different agencies provide different dates depending on the latest information they have. Here, I took this issue as a data analysis task and tried finding the no. of districts in India currently and where the latest 5 districts were created. This analysis is based on two trusted datasets, one published in 2017 and another in 2018.
+Finding the exact no. of districts in India does not seem to be trivial task (https://blog.socialcops.com/intelligence/data-stories/boundary-changes-districts-in-india/), because different agencies provide different dates depending on the latest information they have. Here, I took this issue as a data analysis task and tried finding the no. of districts in India currently and where the latest 5 districts were created. This analysis is based on two trusted datasets, one published in 2017 and another in 2018.
 
 In this analysis, the date of creation of a district is assumed as that date mentioned in the respective Government's Gazette Notification (indicating the formation of that district).
 
