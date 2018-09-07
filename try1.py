@@ -1,5 +1,0 @@
-import pandas as pd
-import numpy as np
-print('checking pyton)
-
-print('checking again)
